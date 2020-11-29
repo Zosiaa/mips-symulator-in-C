@@ -1,7 +1,7 @@
 # mips-symulator-in-C
 Implemented in C symulator of MIPS32
 
-Simulator program that simulates the MIPS microarchitecture (single cycle execution). 
+Program that simulates the MIPS microarchitecture (single cycle execution). 
 With implemented basic operations of the MIPS microarchitecture, such as fetching instructions from the instruction memory,
 decoding instructions, executing the proper arithmetic operations, reading data from the register file or the data memory, 
 and determining the address of the next instructions.
